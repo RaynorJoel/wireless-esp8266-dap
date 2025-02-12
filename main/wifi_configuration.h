@@ -41,7 +41,7 @@ static struct {
 
 #define USE_UART_BRIDGE      1
 #define UART_BRIDGE_PORT     1234
-#define UART_BRIDGE_BAUDRATE 115200
+#define UART_BRIDGE_BAUDRATE 74800
 //
 
 // DO NOT CHANGE
